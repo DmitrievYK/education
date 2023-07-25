@@ -64,3 +64,4 @@ git log - команда выводящая все комиты
 
 git merge - объединение веток
 
+sdasdasdasdas
